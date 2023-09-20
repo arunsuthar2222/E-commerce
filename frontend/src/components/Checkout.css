@@ -1,0 +1,10 @@
+.checkout_ad{
+width: 80%;
+margin-bottom: 10px;
+}
+
+.price{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+}
